@@ -1,6 +1,6 @@
 # 🐾 Animais Fantásticos
 
-![Preview](G://animais-fantasticos/preview/imagem-readme.jpg)
+![Preview](G:/animais-fantasticos/preview/imagem-readme.jpg)
 
 Projeto desenvolvido para praticar JavaScript, manipulação do DOM e conceitos básicos de acessibilidade.
 
